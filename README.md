@@ -8,6 +8,11 @@ A plugin for Stremio Enhanced that adds convenient keyboard shortcuts for playba
 - **Time Skipping**: Jump forward/backward in the video
 - **Episode Navigation**: Skip to the next episode automatically
 
+## Screenshots
+
+![Plugin in Action](screenshots/speed.png)
+*The plugin displays on-screen notifications for speed control, time skipping, and episode navigation.*
+
 ## Keyboard Shortcuts
 
 | Key | Action |
@@ -43,7 +48,9 @@ The plugin cycles through these speeds:
    - **Windows**: `%APPDATA%\stremio-enhanced\plugins\`
    - **Linux**: `~/.config/stremio-enhanced/plugins/`
 3. Restart Stremio
-4. The shortcuts should now be active during video playback
+4. Go to **Settings** → **Enhanced** → **Plugins**
+5. Enable **PlayBackShortcuts** from the plugins list
+6. The shortcuts should now be active during video playback
 
 ## Usage
 
